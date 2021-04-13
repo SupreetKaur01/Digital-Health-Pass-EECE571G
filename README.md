@@ -3,5 +3,6 @@
 This is the repository for UBC EECE571G Blockchain Software Engineering Project, 2021.
 
 Steps:
-  Run : npm install ; npm i react-router-dom ; npm install react-bootstrap bootstrap
-        npm start
+
+Run : npm install ; npm i react-router-dom ; npm install react-bootstrap bootstrap
+Run : npm start
