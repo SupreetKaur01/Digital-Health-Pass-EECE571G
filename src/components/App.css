@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.font-Head{
+  color : mediumseagreen;
+  font-size: 3.5em;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .navbar-brand{
+  margin-top: 1%;
+  font-weight: bolder;
+  margin-bottom: 1%;
+  font-size: xx-large;
+ }
+
+ .mr-auto{
+  margin-top: 1%;
+  margin-left: 3%;
+  margin-top: 1%;
+  font-weight: bolder;
+  margin-bottom: 1%;
+ }
+
+ .address-bar{
+  color:white;
+  background-color:#282c34;
+  font-family:'Courier New', Courier, monospace;
+  width: 800px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  border-style: solid;
+  border-width: 0px 0px 0px 20px; 
+  border-color:teal; 
+}
+#account{
+  padding-left: 15px;
+  padding-right: 15px;
+  
+}
+
+.Form-heading{
+ color:#282c34;
+ font-weight: bolder;
+}
+
+.footer-style{
+
+ color: white;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+ margin-left: 40%;
+ 
+}
+
