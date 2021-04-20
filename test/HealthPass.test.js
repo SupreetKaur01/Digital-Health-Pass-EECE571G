@@ -104,4 +104,4 @@ contract(HealthPass,([healthAuthority, user, user2])=>{
                     });
             })
         })
-    })
+    });
